@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-Background
+# Background
 
 We built an ETL pipeline to process crowdfunding data from Excel files, extracting, transforming, and creating four CSV files. These CSV files were then used to create an Entity Relationship Diagram (ERD) and a table schema before being loaded into a PostgreSQL database.
 
